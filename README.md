@@ -17,9 +17,9 @@
 * Ayudante
 
 # Idiomas
-* Ingles- A2
-* Castellano- C1
-* Valenciano- B1
+** Ingles - A2
+* Castellano - C1
+* Valenciano - B1
 
 # Habilidades/conocimientos
 
