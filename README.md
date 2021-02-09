@@ -1,6 +1,3 @@
-# Gabriel-lopez-
-
-
 # Datos personales
 * Gabriel lopez segovia
 * 28/08/03
@@ -22,4 +19,12 @@
 * Valenciano - B1
 
 # Habilidades/conocimientos
+* Controlo todo el apartado de informatica, pero lo que mejor se me da es el montaje de ordenadores.
 
+# Proyectos personales
+* He conseguido hacer la mayoria de apartados de excel, word, power point... Tambien consegui hacer trabajos que necesitaba manejar comandos.
+
+# Aficiones
+* Futbol
+* Videojuegos
+* Ordenadores/informatica
