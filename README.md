@@ -3,7 +3,7 @@
 
 # Datos personales
 * Gabriel lopez segovia
-* 28 de agosto de 2003
+* 28/08/03
 * lopez20410@iesmarenostrum.com
 * 670021604
 
