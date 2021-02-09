@@ -17,7 +17,7 @@
 * Ayudante
 
 # Idiomas
-** Ingles - A2
+* Ingles - A2
 * Castellano - C1
 * Valenciano - B1
 
