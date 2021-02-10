@@ -23,7 +23,7 @@
 
 # Proyectos personales
 * He conseguido hacer la mayoria de apartados de excel, word, power point... Tambien consegui hacer trabajos que necesitaba manejar comandos.
-[Mis trabajos](trabajos.md)
+* [Mis trabajos](trabajos.md)
 # Aficiones
 * Futbol
 * Videojuegos
