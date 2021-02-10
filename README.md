@@ -23,7 +23,7 @@
 
 # Proyectos personales
 * He conseguido hacer la mayoria de apartados de excel, word, power point... Tambien consegui hacer trabajos que necesitaba manejar comandos.
-
+[Mis trabajos](trabajos.md)
 # Aficiones
 * Futbol
 * Videojuegos
@@ -31,4 +31,4 @@
 
 ![Github](https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Aprende-a-defenderte-de-los-ciberdelicuentes-con-estas-herramientas-de-seguridad-inform%C3%A1tica.jpg?fit=640%2C446)
 
-[Mis trabajos](trabajos.md)
+
