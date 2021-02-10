@@ -2,4 +2,4 @@
 
 ## Evalua tus conocimientos
 
-[descargar archivo](/trabajos/Evalúatusconocimientos.docx)
+[descargar archivo](./trabajos/Evaluatusconocimientos.docx)
