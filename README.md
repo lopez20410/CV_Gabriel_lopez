@@ -30,3 +30,5 @@
 * Ordenadores/informatica
 
 ![Github](https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Aprende-a-defenderte-de-los-ciberdelicuentes-con-estas-herramientas-de-seguridad-inform%C3%A1tica.jpg?fit=640%2C446)
+
+https://lopez20410.github.io/CV_Gabriel_lopez/trabajos
