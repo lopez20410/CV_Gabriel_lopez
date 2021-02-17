@@ -16,18 +16,18 @@
 ![](https://cloud10.todocoleccion.online/figuras-munecos-gormiti/tc/2020/01/30/05/192403917.jpg) 
 
 ## Teclado apex pro tkl
-![](fotos/ych7rkh.jpg)
+![](./fotos/ych7rkh.jpg)
 
 ## Futbol
-![](fotos/1579196525_489238_1579272049_noticia_nor)
+![](./fotos/1579196525_489238_1579272049_noticia_nor)
 
 ## Ordenador
-![](fotos/ych7rkh.jpg)
+![](./fotos/ych7rkh.jpg)
 
 ## Andorra
-![](fotos/preocupaciones-andorra-ciudadanos_12_658x347.jpg
+![](./fotos/preocupaciones-andorra-ciudadanos_12_658x347.jpg
 )
 
 ## Cadiz
-![](fotos/p-cadiz_turismo.jpg
+![](./fotos/p-cadiz_turismo.jpg
 )
