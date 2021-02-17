@@ -10,7 +10,7 @@
 ![](https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png)
 
 ## Pikachu
-![](https://static.wikia.nocookie.net/ssbb/images/b/b8/025Pikachu_LG.png/revision/latest?cb=20190520161120&path-prefix=es)
+![](https://i1.wp.com/codigoespagueti.com/wp-content/uploads/2018/05/pikachu.jpg?resize=1080%2C608&quality=80&ssl=1)
 
 ## Gormiti
 ![](https://cloud10.todocoleccion.online/figuras-munecos-gormiti/tc/2020/01/30/05/192403917.jpg) 
