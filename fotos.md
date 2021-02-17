@@ -16,18 +16,17 @@
 ![](https://cloud10.todocoleccion.online/figuras-munecos-gormiti/tc/2020/01/30/05/192403917.jpg) 
 
 ## Teclado apex pro tkl
-![](./fotos/ych7rkh.jpg)
+![](https://gzhls.at/i/31/65/2133165-n7.jpg)
 
 ## Futbol
-![](./fotos/1579196525_489238_1579272049_noticia_nor)
+![](https://ep01.epimg.net/economia/imagenes/2020/01/16/actualidad/1579196525_489238_1579272049_noticia_normal.jpg)
 
 ## Ordenador
-![](./fotos/ych7rkh.jpg)
+![](https://www.destreaming.es/wp-content/uploads/2020/06/ych7rkh.jpg)
 
 ## Andorra
-![](./fotos/preocupaciones-andorra-ciudadanos_12_658x347.jpg
-)
+![](https://st3.idealista.com/news/archivos/2020-09/andorra_gtres.jpg?sv=E5MiXJ2q)
 
 ## Cadiz
-![](./fotos/p-cadiz_turismo.jpg
-)
+![](https://www.cadizturismo.com/storage/app/media/uploaded-files/p-cadiz_turismo.jpg)
+
